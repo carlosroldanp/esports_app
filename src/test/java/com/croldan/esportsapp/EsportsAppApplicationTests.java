@@ -1,4 +1,4 @@
-package com.croldan.esports_app;
+package com.croldan.esportsapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

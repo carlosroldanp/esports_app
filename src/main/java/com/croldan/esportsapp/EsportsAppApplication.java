@@ -1,4 +1,4 @@
-package com.croldan.esports_app;
+package com.croldan.esportsapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
